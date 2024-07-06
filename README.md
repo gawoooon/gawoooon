@@ -15,7 +15,7 @@
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
     </div>
     <!-- Frontend -->
     <div>
