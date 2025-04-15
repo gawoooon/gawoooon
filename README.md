@@ -1,4 +1,8 @@
 ## 🤞 Nice way to meet me
+
+### I'm Gawon Lee, a developer from Korea  
+📧 gawonlee0712@gmail.com
+
 <br>
 
 ## 🔨 Once I've used 🔨
